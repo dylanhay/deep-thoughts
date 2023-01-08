@@ -26,15 +26,13 @@ https://www.gnu.org/licenses/gpl-3.0
 * React.js
 * Node.js
 * GraphQL
-* Apollo Server
-* React Router
+* Apollo
 * concurrently
 * jsonwebtoken
 * jwt-decode
 * faker
 * nodemon
 * bcrypt
-* Apollo Studio Explorer
 
 ## Landing Page
 
