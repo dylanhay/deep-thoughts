@@ -40,6 +40,7 @@ https://deep-thoughts-dch.herokuapp.com/
 ## Installation  
 To run locally once cloned:
 * Enter `npm install` in the CLI to install the required npm packages
+* Enter `npm run seed` in the CLI to seed the database
 * Enter `npm run develop` in the CLI to launch the application
 
 ## Contribution
