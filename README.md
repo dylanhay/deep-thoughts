@@ -2,6 +2,7 @@
 
 ## Description
 A social media application built with the MERN stack where users can create an account, post their thoughts, and interact with other users.
+
 ## License  
 This application is covered under the following license. Please review the link below for additional information pertaining to the license.
     
@@ -13,7 +14,6 @@ https://www.gnu.org/licenses/gpl-3.0
 [Built With](#built-with)  
 [Landing Page](#landing-page)  
 [Installation](#installation)  
-[Testing](#testing)  
 [Contribution](#contribution) 
 
 ## Deployed Application
@@ -35,14 +35,12 @@ https://www.gnu.org/licenses/gpl-3.0
 * bcrypt
 
 ## Landing Page
+![Screenshot](./img/deep-thoughts-land.png "Mock Up")
 
 ## Installation  
 To run locally once cloned:
 * Enter `npm install` in the CLI to install the required npm packages
-* Enter `npm start` in the CLI to launch the application
-
-## Testing  
-
+* Enter `npm run develop` in the CLI to launch the application
 
 ## Contribution
 Built by Dylan Hay
