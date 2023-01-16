@@ -33,6 +33,8 @@ https://deep-thoughts-dch.herokuapp.com/
 * faker
 * nodemon
 * bcrypt
+* Git
+* Heroku
 
 ## Landing Page
 ![Screenshot](./img/deep-thoughts-land.png "Mock Up")
